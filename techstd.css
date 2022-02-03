@@ -1,0 +1,896 @@
+.cage{
+    max-width: 1200px;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 40px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.shine{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    position: relative;
+    height: 50px;
+    align-items: stretch;
+}
+.fill{
+    display: flex;
+}
+a{
+    height: 100%;
+    display: inline-block;
+    text-decoration: none;
+    color: blue;
+
+}
+.fliers{
+    display: inline-block;
+    margin-right: 10px;
+    line-height: 1.2;
+    height: 100%;
+    margin-top: -10px;
+}
+.logo{
+    width: 40px;
+    height: 50px;
+}
+.tips{
+    margin-bottom: 5px;
+    margin-top: -5px;
+}
+.stud{
+    font-weight: 550;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.see{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+    line-height: 1.4;
+}
+.bars{
+    height: 100%;
+    text-transform: capitalize;
+    margin-left: auto;
+    display: flex;
+    padding-left: 0;
+    margin-right: 20px;
+    margin-bottom: 0;
+    margin-top: 1;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+.hill{
+    padding-left: 20px;
+    padding-right: 20px;
+    display: block;
+}
+.slip{
+    background-size: cover;
+    background-image: url("./Imgs/bg.jpg") !important;
+    min-height: 650px;
+    padding-bottom: 5px !important;
+    padding-top: 5px !important;
+    padding: 60px 30px;
+    border-radius: 9px;
+    background-color: rgb(22, 16, 16);
+    color: white;
+}
+.hray{
+    padding-bottom: 45px;
+    padding-top: 76px;
+    max-width: 1200px;
+    width: 100%;
+    padding-right: 25px;
+    padding-left: 0px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.crop{
+    display: flex;
+    flex-wrap: wrap;
+}
+.stap{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    flex: 0 0 58.4%;
+    max-width: 60%;
+    position: relative;
+    width: 95%;
+    min-height: 1px;
+    padding-right: 10px;
+    padding-left: 30px
+}
+.jot{
+    font-size: 37px;
+    font-weight: 700;
+    margin-bottom: 7.5px;
+    line-height: 1.2;
+    color: white;
+    margin-top: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.veil{
+    font-size: 17px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: gainsboro;
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+.hoot{
+    padding-top: 35px;
+    margin-top: 45px;   
+}
+.view{
+    text-transform: capitalize;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    margin-bottom: 7.5px;
+    font-weight: 500;
+    line-height: 1.2;
+    margin-top: 0;
+}
+.hail{
+    width: 75%;
+}
+.triph{
+    justify-content: space-between;
+    padding-right: 7.5px;
+    display: flex;
+}
+.baylis{
+    margin-top: 0;
+    margin-bottom: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 17px;
+}
+.axis{
+    margin-top: 0;
+    margin-bottom: 17px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 17px;
+}
+/* .form{
+
+} */
+.howl{
+    color: rgb(58, 55, 55);
+    background-color: white;
+    border: none;
+    max-width: 35.5%;
+    height: 430px;
+    position: absolute;
+    width: 70%;
+    min-height: 1px;
+    margin-left: 730px;
+}
+.pull2{
+    font-size: 23px;
+    margin-bottom: 5px;
+    margin-top: 40px;
+    margin-left: 25px;
+    line-height: 1.2;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h2 {
+    font-size: 21.5px;
+    margin-bottom: 5px;
+    margin-top: 40px;
+    margin-left: 0px;
+    font-weight: 450;
+    line-height: 1.2;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.stat{
+    margin-bottom: 18px;
+    margin-left: 25px;
+    width: 95%;
+    max-width: 100%
+    
+}
+.reel{
+    display: flex;
+}
+.brsh{
+    display: flex;
+    width: 92%;
+    height: calc(50px + 2px);
+    font-size: 1rem;
+    line-height: 0;
+    color: gray;
+    background-color: white;
+    background-clip: padding-box;
+    border: 1px solid rgb(39, 36, 36);
+    border-radius: 2.5px;  
+}
+.hid{
+    margin-bottom: 0;
+    margin-top: 25px;
+    max-width: 45%;
+    position: relative;
+    width: 100%;
+    min-height: 20px;
+    padding-right: 25px;
+    padding-left: 0px;
+}
+.roll{
+    margin-bottom: 0;
+    margin-top: 25px;
+    max-width: 45%;
+    position: relative;
+    width: 100%;
+    min-height: 20px;
+    padding-left: 0px;
+}
+.soil{
+    position: absolute;
+    width: 50px;
+    height: 30px;
+    padding: 0;
+    margin: -1px;
+}
+.file22{
+    margin-bottom: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.feet{
+    cursor: pointer;
+    color: cornsilk;
+    background-color: rgb(13, 91, 236);
+    font-weight: 400;
+    text-align: center;
+    vertical-align: middle;
+    border: 1px solid transparent;
+    border-radius: 5px;
+    width: 90%;
+    background-clip: padding-box;
+    font-size: 15px;
+    height: 55px;
+    margin-left: 25px;
+}
+.piper{
+    padding-bottom: 23px;
+    padding-top: 23px;
+    background-color: whitesmoke;
+}
+.pack{
+    padding-bottom: 45px;
+    padding-top: 45px;
+    max-width: 1200px;
+    width: 100%;
+    padding-right: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    box-sizing: border-box;
+}
+.sit1{
+    display: flex;
+    margin-right: -15px;
+    margin-left: -15px;
+    margin-bottom: 30px;
+}
+.nail{
+    margin-bottom: 0;
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+    max-width: 50%;
+    position: relative;
+    width: 100%;
+    min-height: 1px;
+    padding-right: 15px;
+}
+.mean1{
+    text-align: center;
+    margin-top: 7.5px;
+}
+.pics{
+    border-radius: 50%;
+    margin-bottom: 15px;
+    width: 130px;
+    max-width: 100%;
+    height: auto;
+    vertical-align: middle;
+    border-style: none;
+}
+.send{
+    line-height: 1.5;
+    font-size: 20px;
+    margin-top: 0;
+    margin-bottom: 7.5px;
+    font-family: sans-serif;
+    text-align: center;
+}
+.faces{
+    font-weight: 700;
+    margin-top: 23px;
+    font-family: sans-serif;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+.swift{
+    max-width: 50%;
+    position: relative;
+    width: 100%;
+    min-height: 1px;
+    padding-right: 15px;
+}
+.bambam{
+    font-family: PT Sans,sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+.deal{
+    color: #dc3545 !important;
+}
+.rowy{
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+.slik{
+    margin-bottom: 0;
+    margin-left: 27%;
+    max-width: 45%;
+}
+.peng{
+    padding-bottom: 45px;
+    padding-top: 45px;
+}
+.box{
+    max-width: 1200px;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.sips{
+    text-align: center;
+    padding-bottom: 45px;
+    padding-top: 45px;
+    display: flex;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+.badd{
+    margin-bottom: 45px;
+    max-width: 34%;
+    position: relative;
+    width: 100%;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px
+}
+.bud{
+    text-align: center;
+    vertical-align: middle;
+}
+.base{
+    padding-top: 23px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+}
+.wordtxt{
+    font-weight: 700;
+    text-transform: capitalize;
+    font-size: 30px;
+    margin-bottom: 7.5px;
+    margin-top: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.house{
+    border-style: none;
+    background-color: rgb(245, 245, 245);
+    width: 100%;
+    height: 630px;
+}
+.nest{
+    text-align: center;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 20px;
+}
+.tipu1{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: 20px;
+}
+.milder{
+    width: 55px;
+    height: 5px;
+    background-color: rgb(11, 118, 241);
+    border: none;
+}
+.fits11{
+    display: flex;
+    flex-wrap: wrap;
+}
+.parts{
+    font-size: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 600px;
+    padding-top: 20px;
+    padding-left: 80px;
+    line-height: 1.7;
+}
+.spill{
+    margin-bottom: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.silk{
+    width: 170px;
+    text-align: center;
+    height: 30px;
+    padding-top: 10px;
+    color: white;
+    background-color: rgb(13, 91, 236);
+    cursor: pointer;
+    border-radius: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+    padding: .7rem .5rem;
+}
+.spark{
+    position: absolute;
+    padding-left: 620px;
+    margin-top: -400px;
+}
+.kips{
+    width: 550px;
+    height: 350px;
+    margin-bottom: 200px;
+}
+.stil{
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.huski{
+    text-align: center;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+.ply{
+    width: 50%;
+    padding-left: 400px;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.wide{
+    width: 1170px;
+    padding-left: 90px;
+    margin-top: 30px;
+}
+.mong{
+    line-height: -0;
+    padding-left: 140px;
+}
+.biggy{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    padding-left: 90px;
+    padding-top: 70px;
+    padding-bottom: 30px;
+}
+.gobb{
+    padding-top: 15px;
+}
+.dills{
+    line-height: 1.5;
+    font-size: 15px;
+    padding-bottom: 15px;
+    /* width: 100%; */
+}
+.belz{
+    font-size: 15px;
+}
+.flik{
+    font-size: 15px;
+    /* width: 90%; */
+    padding-left: 20px;
+    line-height: 1.4;
+}
+.speedy{
+    border: none;
+    background-color: rgb(245, 245, 245);
+    width: 100%;
+    height: 800px;
+    padding-top: 20px;
+}
+.bbdy{
+    text-align: center;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 40px;
+}
+.juks{
+    display: flex;
+    padding-bottom: 20px;
+}
+.neva{
+    width: 850px;
+    padding-left: 90px;
+}
+.venty{
+    position: absolute;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 8px 3px 8px 3px rgb(196, 196, 196);
+    background-color: white;
+    width: 500px;
+    height: 450px;
+    margin-left: 760px;
+    margin-top: -550px;
+
+}
+.blink{
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 80%;
+    padding-left: 50px;
+    padding-top: 40px;
+}
+.nill{
+    padding-top: 10px;
+    line-height: 1.5;
+}
+.flin{
+    color: blue;
+    text-decoration: underline;
+    
+}
+.jules{
+    padding-top: 20px;
+    display: flex;
+   
+}
+.stun{
+    padding-top: 30px;
+    padding-left: 70px;
+}
+.vexy{
+    width: 590px;
+    height: 550px;
+}
+.bossy{
+    width: 44%;
+    line-height: 1.7;
+    padding-left: 30px;
+    margin-bottom: 20px;
+}
+.tess{
+    text-align: center;
+    padding-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+}
+.milder1{
+    margin-left: 290px;
+    width: 55px;
+    height: 5px;
+    background-color: rgb(11, 118, 241);
+    border: none;
+
+}
+.tides{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+}
+.lily{
+    font-weight: bold;
+}
+.brewy{
+    text-align: center;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 30px;
+
+}
+.tipu{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 30px;
+}
+.tipy{
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 40px;
+}
+.date{
+    box-sizing: border-box;
+    font-size: 13.5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    line-height: 1.6;
+}
+.flap{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-top: 50px;
+    width: 45%;
+
+}
+.smile12{
+    display: flex;
+    margin-bottom: 80px;
+}
+.grain{
+    width: 580px;
+    height: 360px;
+    padding-left: 80px;
+}
+.cent{
+    width: 45%;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-size: 15px;
+   padding-left: 30px;
+   line-height: 1.45;
+}
+.stilk{
+    width: 180px;
+    text-align: center;
+    height: 30px;
+    padding-top: 10px;
+    color: white;
+    background-color: rgb(13, 91, 236);
+    cursor: pointer;
+    border-radius: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+    padding: .6rem .6rem;
+}
+.bricc2{
+    border: none;
+    background-color: rgb(245, 245, 245);
+    width: 100%;
+    height: 300px;
+    padding-top: 50px;
+}
+.mader{
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(42, 134, 240);
+    width:60%;
+    height: 100px;
+    padding-top: 40px;
+    padding-bottom: 10px;
+    margin-top: 50px;
+    margin-left: 250px;
+    display: flex;
+}
+.salo{
+    padding-bottom: 30px;
+}
+.xent{
+    width: 90%;
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 1.5;
+    padding-left: 80px;
+    margin-top: -5px;
+}
+.fhyt{
+    width: 60%;
+    margin-top: 10px;
+    margin-left: 100px;
+    
+}
+.nigg{
+    width: 200px;
+    text-align: center;
+    height: 20px;
+    padding-top: 5px;
+    color: rgb(87, 157, 238);
+    background-color: white;
+    cursor: pointer;
+    border-radius: 5px;
+    box-shadow: 2px 1px 2px 1px rgb(5, 99, 177);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+    padding: 12px 5px;
+}
+.dilla{
+    line-height: 1.5;
+    font-size: 15px;
+    padding-bottom: 15px;
+    width: 100%;
+}
+.pentt{
+    /* border: groove; */
+    background-color: rgb(0, 153, 255);
+    height: 900px;
+}
+.jole{
+    padding-top: 100px;
+    display: flex;
+}
+.kites{
+    border-radius: 3px;
+    background-color: whitesmoke;
+    width: 46%;
+    height: 700px;
+    margin-left: 130px;
+    
+}
+.devey{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 50px;
+    padding-top: 10px;
+    line-height: 1.45;
+    width: 83%;
+}
+.migg{
+    font-size: 35px;
+    margin-top: -10px;
+    font-weight: lighter;
+}
+.wheel{
+    font-size: 16px;
+    color: rgb(124, 124, 124);
+}
+.maxes{
+    border: none;
+    height: 710px;
+    width: 30%;
+    color: white;
+    background-color: rgb(226, 52, 52);
+    margin-left: 55px;
+}
+.vite{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.2;
+    padding-left: 60px;
+    width: 90%;
+}
+.cede{
+    font-weight: lighter;
+    font-size: 25px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+.deet{
+    font-weight: lighter;
+    font-size: 30px;
+    margin-top: 30px;
+}
+.buttn{
+    background-color: blue;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 350px;
+    height: 50px;
+    cursor: pointer;
+    margin-right: 30px;
+}
+.flute{
+    margin-left: 25px;
+    padding-top: 20px;
+}
+.loote{
+    width: 200px;
+    text-align: center;
+    height: 15px;
+    padding-top: 10px;
+    color: white;
+    background-color: rgb(13, 91, 236);
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+    padding: 20px 80px;
+}
+
+.bottom{
+    background-color: rgb(20, 18, 18);
+    color: rgb(218, 218, 218);
+    height: 255px;
+}
+.criss{
+    padding-left: 70px;
+    padding-top: 40px;
+}
+.filled{
+    display: flex;
+    margin-bottom: 0px;
+}
+.flef{
+    display: inline-block;
+    margin-right: 10px;
+    height: 100%;
+    margin-top: 10px;
+}
+.logss{
+    width: 30px;
+    height: 30px;
+}
+.tipsy{
+    margin-top: 15px;
+}
+.studxx{
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+}
+.addace{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    padding-left: 0px;
+   
+}
+.poli{
+    margin-bottom: 100px;
+}
+.gubb{
+    position: relative;
+    padding-left: 500px;
+    margin-top:-9%;
+}
+.uppy{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1;
+    font-weight: lighter;
+    font-size: 20px;
+    margin-bottom: -5px;
+
+}
+.hind{
+    padding-top: 10px;
+}
+.xendo{
+    size: 50px;
+    border: none;
+    border-radius: 2px;
+    width: 450px;
+    height: 55px;
+    font-weight: lighter;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+.luigi{
+    size: 50px;
+    border: none;
+    border-radius: 2px;
+    width: 455px;
+    height: 60px;
+    background-color: rgb(13, 91, 236);
+    color: white;
+    font-weight: lighter;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+}
+.sowes{
+    position: relative;
+    padding-left: 1010px;
+    margin-top: -13.5%;
+}
+.sm{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: lighter;
+}
+.iconsss{
+    display: flex;
+    margin-top: -15px;
+    color: rgb(218, 218, 218);
+}
+.vikk{
+    margin-right: 10px;
+}
